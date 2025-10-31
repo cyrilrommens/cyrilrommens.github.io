@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: "<a href='https://www.beyondtheedge.network/'>BeyondTheEdge</a>, [BeyondTheEdge](https://www.beyondtheedge.network/), [COSNET](https://cosnet.bifi.es/), [BIFI](https://bifi.es/team/rommens-cyril-jean-charles/)"
+subtitle: "<a href='https://www.beyondtheedge.network/'>BeyondTheEdge</a>, <a href='https://cosnet.bifi.es/'>COSNET</a>, <a href='https://bifi.es/team/rommens-cyril-jean-charles/'>BIFI</a>"
 
 profile:
   align: right
