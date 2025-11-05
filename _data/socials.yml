@@ -51,6 +51,6 @@ spotify_id: artist/5dfvfipdrOjnPtb7qtSAct #https://open.spotify.com/artist/5dfvf
 # youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 # zotero_username: # your zotero username
 custom_social: # can be any name here other than the ones already defined above
-  logo: assets\img\AE_E_logo.jpg # can be png, svg, jpg
+  logo: assets/img/AE_E_logo.jpg # can be png, svg, jpg
   title: Shaemless | Post-Punk
   url: https://www.shaemless.nl/
