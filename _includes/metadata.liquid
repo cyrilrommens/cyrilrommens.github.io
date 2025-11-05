@@ -183,7 +183,7 @@
         {% capture link %}https://www.semanticscholar.org/author/{{ social[1] }}{% endcapture %}
         {% assign sameaslinks = sameaslinks | push: link %}
       {% when 'spotify_id' %}
-        {% capture link %}https://open.spotify.com/user/{{ social[1] }}{% endcapture %}
+        {% capture link %}https://open.spotify.com/{{ social[1] }}{% endcapture %}
         {% assign sameaslinks = sameaslinks | push: link %}
       {% when 'stackoverflow_id' %}
         {% capture link %}https://stackoverflow.com/users/{{ social[1] }}{% endcapture %}

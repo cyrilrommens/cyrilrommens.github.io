@@ -234,7 +234,7 @@ ninja.data = [
         {%- when "spotify_id" -%}
           {%- assign social_id = "social-spotify" -%}
           {%- assign social_title = "Spotify" -%}
-          {%- capture social_url %}"https://open.spotify.com/user/{{ social[1] }}"{% endcapture -%}
+          {%- capture social_url %}"https://open.spotify.com/{{ social[1] }}"{% endcapture -%}
         {%- when "stackoverflow_id" -%}
           {%- assign social_id = "social-stackoverflow" -%}
           {%- assign social_title = "Stackoverflow" -%}
