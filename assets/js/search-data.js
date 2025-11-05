@@ -473,21 +473,21 @@ ninja.data = [{
         title: 'GitHub',
         section: 'Socials',
         handler: () => {
-          window.open("https://github.com/https://github.com/cyrilrommens", "_blank");
+          window.open("https://github.com/cyrilrommens", "_blank");
         },
       },{
         id: 'social-linkedin',
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/https://www.linkedin.com/in/cyril-rommens-552b43183/", "_blank");
+          window.open("https://www.linkedin.com/in/cyril-rommens-552b43183/", "_blank");
         },
       },{
         id: 'social-spotify',
         title: 'Spotify',
         section: 'Socials',
         handler: () => {
-          window.open("https://open.spotify.com/user/https://open.spotify.com/artist/5dfvfipdrOjnPtb7qtSAct", "_blank");
+          window.open("https://open.spotify.com/user/artist/5dfvfipdrOjnPtb7qtSAct", "_blank");
         },
       },{
         id: 'social-custom_social',
