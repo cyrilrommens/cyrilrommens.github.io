@@ -12,17 +12,17 @@
     {
       "institution": "University of Amsterdam",
       "location": "Amsterdam, Netherlands",
-      "area": "Computational Physics of Complex Systems",
-      "studyType": "MSc",
+      "area": "Study on emergent phenomena in complex many-body and nonlinear systems using computational methods. Thesis: Exploring the Helmholtz Free Energy as a Potential Characteristic for Identifying Macroscopic Structural Properties of Simplicial Complexes.",
+      "studyType": "MSc Computational Physics of Complex Systems",
       "startDate": "2022-09-01",
       "endDate": "2024-08-01",
-      "summary": "Study on emergent phenomena in complex many-body and nonlinear systems using computational methods. Thesis: Exploring the Helmholtz Free Energy as a Potential Characteristic for Identifying Macroscopic Structural Properties of Simplicial Complexes."
+      "summary": ""
     },
     {
       "institution": "The Arctic University of Norway",
       "location": "Svalbard, Norway",
-      "area": "Space Physics",
-      "studyType": "MSc minor",
+      "area": "Minor Space Physics",
+      "studyType": "MSc",
       "startDate": "2022-09-01",
       "endDate": "2023-06-01",
       "summary": "Plasma and statistical physics specialized in the interaction between solar activity and Earth's magnetosphere in the High Arctic atmosphere."
