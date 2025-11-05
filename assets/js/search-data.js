@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-cv",
           title: "cv",
-          description: "For the most recent version of the CV, please open [here](https://www.overleaf.com/read/bpckjfdypsrx#dea01c)",
+          description: "For the most recent version of the CV, please open here.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
