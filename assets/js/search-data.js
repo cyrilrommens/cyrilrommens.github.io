@@ -487,7 +487,7 @@ ninja.data = [{
         title: 'Spotify',
         section: 'Socials',
         handler: () => {
-          window.open("https://open.spotify.com/user/artist/5dfvfipdrOjnPtb7qtSAct", "_blank");
+          window.open("https://open.spotify.com/artist/5dfvfipdrOjnPtb7qtSAct", "_blank");
         },
       },{
         id: 'social-custom_social',
