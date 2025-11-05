@@ -10,7 +10,7 @@
 
   "education": [
     {
-      "institution": "University of Amsterdam",
+      "institution": "University of Amsterdam / VU University",
       "location": "Amsterdam, Netherlands",
       "area": "Study on emergent phenomena in complex many-body and nonlinear systems using computational methods. Thesis: Exploring the Helmholtz Free Energy as a Potential Characteristic for Identifying Macroscopic Structural Properties of Simplicial Complexes.",
       "studyType": "MSc Computational Physics of Complex Systems",
@@ -21,48 +21,48 @@
     {
       "institution": "The Arctic University of Norway",
       "location": "Svalbard, Norway",
-      "area": "Minor Space Physics",
-      "studyType": "MSc",
+      "area": "Plasma and statistical physics specialized in the interaction between solar activity and Earth's magnetosphere in the High Arctic atmosphere.",
+      "studyType": "MSc Minor Space Physics",
       "startDate": "2022-09-01",
       "endDate": "2023-06-01",
-      "summary": "Plasma and statistical physics specialized in the interaction between solar activity and Earth's magnetosphere in the High Arctic atmosphere."
+      "summary": ""
     },
     {
       "institution": "University of Amsterdam",
       "location": "Amsterdam, Netherlands",
-      "area": "Minor Film Studies (Media Studies Research Master Track)",
-      "studyType": "MSc",
+      "area": "Minor in Film and Documentary Studies to improve science communication skills.",
+      "studyType": "MSc Minor Film Studies (Media Studies Research Master Track)",
       "startDate": "2021-09-01",
       "endDate": "2022-06-01",
       "score": "8.0/10",
-      "summary": "Minor in Film and Documentary Studies to improve science communication skills."
+      "summary": ""
     },
     {
       "institution": "University of Amsterdam / VU University",
       "location": "Amsterdam, Netherlands",
-      "area": "Physics and Astronomy",
-      "studyType": "BSc",
+      "area": "Focus on classical and modern physics and astronomy, developing analytical, critical, and mathematical thinking skills.",
+      "studyType": "BSc Physics and Astronomy",
       "startDate": "2018-09-01",
       "endDate": "2021-06-01",
-      "summary": "Focus on classical and modern physics and astronomy, developing analytical, critical, and mathematical thinking skills."
+      "summary": ""
     },
     {
       "institution": "VU University",
       "location": "Amsterdam, Netherlands",
-      "area": "Medical Natural Sciences",
-      "studyType": "BSc",
+      "area": "Interdisciplinary study combining physics and biomedical sciences to bridge fundamental research and clinical practice.",
+      "studyType": "BSc Medical Natural Sciences",
       "startDate": "2017-09-01",
       "endDate": "2021-06-01",
-      "summary": "Interdisciplinary study combining physics and biomedical sciences to bridge fundamental research and clinical practice."
+      "summary": ""
     },
     {
       "institution": "Radboud University",
       "location": "Nijmegen, Netherlands",
-      "area": "Molecular Life Sciences",
-      "studyType": "BSc (first year)",
+      "area": "Interdisciplinary study of science, mathematics, and computation connected to Radboudumc Research Institute for Medical Innovation. I transitioned to physics to pursue deeper understanding of theoretical frameworks.",
+      "studyType": "BSc Molecular Life Sciences (first year)",
       "startDate": "2016-09-01",
       "endDate": "2017-06-01",
-      "summary": "Interdisciplinary study of science, mathematics, and computation connected to Radboudumc Research Institute for Medical Innovation. Transitioned to physics to pursue deeper understanding of theoretical frameworks."
+      "summary": ""
     }
   ],
 
