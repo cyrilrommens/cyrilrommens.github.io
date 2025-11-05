@@ -218,10 +218,3 @@ ul.timeline li::before {
      color: var(--global-text-color);
 }
 */
-
-/*****************************
- * Fix: Align all CV dates evenly
- *****************************/
-.cv .date.continue {
-  margin-left: var(--cv-date-margin, 2rem); /* same as normal .date elements */
-}
